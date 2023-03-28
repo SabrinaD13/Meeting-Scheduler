@@ -188,5 +188,4 @@ function colorize() {
         document.getElementById('section9').style.backgroundColor = "green";
     }
 }
-
 setInterval(colorize, 100)
