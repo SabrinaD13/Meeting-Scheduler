@@ -1,0 +1,33 @@
+.inputClass {
+  width: 500px;
+  height: 95px;
+  font-size: 15px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+time {
+  width: 100px;
+  height: 70px;
+  position: absolute;
+  margin-left: -110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scheduleTable {
+  display: flex;
+  flex-direction: column;
+}
+
+row {
+  display: inline-flex;
+  align-items: center;
+  text-align: center;
+  font-size: 30px;
+}
+
+.btn {
+  height: 80px;
+  width: 80px;
+}
