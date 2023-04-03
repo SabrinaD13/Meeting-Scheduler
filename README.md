@@ -82,6 +82,7 @@ This Challenge is graded based on the following criteria:
 * Repository follows best practices for file structure and naming conventions
 
 * Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+![Screenshot (112)](https://user-images.githubusercontent.com/125221411/229578922-c8d796de-4341-4228-9d2a-d45ca9a28bbe.png)
 
 * Repository contains multiple descriptive commit messages
 
@@ -92,8 +93,8 @@ This Challenge is graded based on the following criteria:
 You are required to submit the following for review:
 
 * The URL of the deployed application
+http://127.0.0.1:5500/index.html 
 
-* The URL of the GitHub repository, with a unique name and a README describing the project
 
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
